@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/HeyAzhar" target="blank"><img src="https://img.shields.io/twitter/follow/HeyAzhar?logo=twitter&style=for-the-badge" alt="HeyAzhar" /></a> </p>
 
+- 📄 NOTE : Working activities are on Gitlab (https://gitlab.com/heyAzhar)
+
 - 🔭 I’m currently working on Quoality (https://www.quoality.com/)
 
 - 🌱 I’m currently learning **Investing**
