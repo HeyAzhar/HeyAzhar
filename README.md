@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Hi, I'm Azhar | Coder | Designer | Photographer
+![image](https://github.com/HeyAzhar/HeyAzhar/assets/49992750/7d186286-c9b5-4645-a471-4148d2bcc763)# 👨🏻‍💻 Hi, I'm Azhar | Coder | Designer | Photographer
 <p>📄 NOTE: Working activities are on Gitlab < gitlab.com/heyAzhar /> </p>
-<p>🔭 I’m currently working on Rail Europe < raileurope.com /> </p>
+<p>🔭 I’m currently working on [Rail Europe](https://raileurope.com/) </p>
 <p>🌱 I’m currently learning Investing </p>
 <p>📸 Second passion is photography < instagram.com/hey.azhar /> </p>
 <p>📫 How to reach me < HeyAzharr@gmail.com /> </p>
