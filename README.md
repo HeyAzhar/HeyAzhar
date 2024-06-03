@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Hi, I'm Azhar | Coder | Designer | Photographer
-<p>🔭 Currently working on Rail Europe < raileurope.com /> </p>
+<p>🔭 Currently working on [Rail Europe](https://www.raileurope.com)</p>
 <p>🌱 Learning Investments </p>
 <p>📸 Second passion is photography < instagram.com/hey.azhar /> </p>
-<p>📫 Contact < HeyAzharr@gmail.com /> </p>
+<p>📫 Contact < heyAzharr@gmail.com /> </p>
 <p>🪧Experiences < linkedin.com/in/HeyAzhar /> </p>
 
 ## 🌐 Socials
