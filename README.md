@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Hi, I'm Azhar | Coder | Designer | Photographer
-<p>🔭 Currently working on [Rail Europe](https://www.raileurope.com)</p>
+<p>🔭 Currently working on [Tricon](https://www.triconinfotech.com/)</p>
 <p>🌱 Learning Investments </p>
 <p>📸 Second passion is photography < instagram.com/hey.azhar /> </p>
 <p>📫 Contact < heyAzharr@gmail.com /> </p>
